@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <item android:id="@+id/menuopt_move" android:title="平移" />
+  <item android:id="@+id/menuopt_rota" android:title="旋转" />
+  <item android:id="@+id/menuopt_scale" android:title="缩放" />
+  <item android:id="@+id/menuopt_fitall" android:title="全视图(仅测试)" />
+  <item android:id="@+id/menuopt_reset" android:title="恢复" />
+  <item android:id="@+id/menuopt_front" android:title="前视图" />
+  <item android:id="@+id/menuopt_back" android:title="后视图" />
+  <item android:id="@+id/menuopt_left" android:title="左视图" />
+  <item android:id="@+id/menuopt_right" android:title="右视图" />
+  <item android:id="@+id/menuopt_top" android:title="俯视图" />
+  <item android:id="@+id/menuopt_bot" android:title="仰视图" />
+
+</menu>
